@@ -4,7 +4,7 @@
   src: url(../font/Lovelyn\ Free\ Personal\ USe.ttf);
 }
 body * {
-  font-family: "lovely", Arial, Helvetica, sans-serif;
+  font-family: "lovely", Arial, Helvetica, sans-serif !important;
 }
 
 /* nav bar costume */
